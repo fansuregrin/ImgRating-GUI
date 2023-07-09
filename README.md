@@ -6,3 +6,19 @@
 </p>
 
 An Images Rating Tools for assessing images enhanced results subjectively.
+
+## Requirements
+
+- python3
+- tkinter
+- pandas
+
+## Usage
+Launch the tool:
+```powershell
+python ./main.py
+```
+
+GUI demo:
+
+![gui-demo](./assets/images/interface.png)

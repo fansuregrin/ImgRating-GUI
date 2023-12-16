@@ -5,7 +5,7 @@
   <h1 align="center" style="font-weight: 600">ImgRating-GUI</h1>
 </p>
 
-An Images Rating Tools for assessing images enhanced results subjectively.
+An Image Rating Tool for assessing enhanced images subjectively.
 
 ## Requirements
 
